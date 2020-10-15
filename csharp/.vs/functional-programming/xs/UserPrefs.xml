@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{66FA4557-C0C9-429B-8B8E-11E711B2E3A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.functionalProgramming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="functionalProgramming/WithLinq.cs">
+    <Files>
+      <File FileName="functionalProgramming/WithLinq (copy).cs" Line="77" Column="50" />
+      <File FileName="functionalProgramming/WithLinq.cs" Line="54" Column="70" />
+      <File FileName="functionalProgramming/Program.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="functional-programming" expanded="True">
+            <Node name="functionalProgramming" expanded="True">
+              <Node name="WithLinq.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
