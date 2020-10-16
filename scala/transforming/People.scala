@@ -3,7 +3,7 @@ package transforming
 object People {
   def loadPeople: List[String] = {
     val wordstream = Option {
-      getClass.getResourceAsStream("/files/people-errors.csv")
+      getClass.getResourceAsStream("/files/people.csv")
     } getOrElse {
       sys.error("Could not load people, file not found")
     }

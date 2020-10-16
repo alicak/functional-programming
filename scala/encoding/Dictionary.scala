@@ -3,7 +3,7 @@ package encoding
 object Dictionary {
   def loadDictionary: List[String] = {
     val wordstream = Option {
-      getClass.getResourceAsStream("/linuxwords.txt")
+      getClass.getResourceAsStream("/files/words.txt")
     } getOrElse {
       sys.error("Could not load word list, dictionary file not found")
     }

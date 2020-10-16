@@ -9,7 +9,7 @@ namespace functionalProgramming
     {
         public static void Run()
         {
-            var dictionary = File.ReadAllLines(@"../../../linuxwords.txt");
+            var dictionary = File.ReadAllLines(@"../../../words.txt");
             var words = dictionary.Where(w => w.ToCharArray().All(c => char.IsLetter(c)));
 
             var mnem = new Dictionary<char, string> {  {'2', "ABC" }, { '3', "DEF"}, { '4', "GHI"}, { '5', "JKL"},
