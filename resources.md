@@ -1,4 +1,4 @@
-# Functional programming -- sources
+# Functional programming -- resources
 
 ## Youtube
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY) -- highly recommended, if you only want to spend an hour on the topic, watch this
